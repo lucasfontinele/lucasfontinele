@@ -1,0 +1,39 @@
+<img src="https://i.imgur.com/GUdpfUX.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
+
+<p align="left">
+  Olá, meu nome é Lucas Fontinele sou <strong>Desenvolvedor Front-end</strong> e <strong>Desenvolvedor Mobile</strong>.<br>
+  Atualmente trabalho como desenvolvedor Front-End. Uma das minhas paixões é
+  prover às pessoas a sensação de estar utilizando algo que foi feito com muito cuidado e carinho, com uma ótima experiência de uso.
+</p>
+
+<p align="left">
+  🚀 Skills: <strong>HTML5, CSS3, C#, JavaScript, TypeScript, MySQL.</strong>
+</p>
+
+<p align="left">
+  🤓 Estudando atualmente: <strong>Blazor.</strong>
+</p>
+
+<p align="left">
+  🔥 Pretendo aprender: <strong>UI/UX Design, Python, Desenvolvimento de Games.</strong>
+</p>
+
+<p align="left">
+  🎮 Hobbies: Jogos on-line, ver filmes e futebol.<strong></strong>
+</p>
+
+<p align="left">
+💌  Quer falar comigo?<br>
+  Me mande mensagem em alguma dessas redes sociais abaixo ⤵️
+</p>
+
+<p align="left">
+<a href="mailto:lfontinele07@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-lfontinele07@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lfontinele07@gmail.com" /></a>
+  
+<a href="https://www.linkedin.com/in/lucasfontinele" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Lucas%20Fontinele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfontinele" /></a>
+  
+<a href="https://twitter.com/frontnele" alt="Twitter">
+<img src="https://img.shields.io/badge/-Lucas Fontinele-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/frontnele" /></a>
+ </p>
