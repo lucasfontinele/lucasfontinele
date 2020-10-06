@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/GUdpfUX.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador IuriCode">
+<img src="./assets/fontinele.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Fontinele">
 
 <p align="left">
   Olá, meu nome é Lucas Fontinele sou <strong>Desenvolvedor Front-end</strong> e <strong>Desenvolvedor Mobile</strong>.<br>
