@@ -7,19 +7,19 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, C#, JavaScript, TypeScript, MySQL.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, C#, Python JavaScript, TypeScript, MySQL.</strong>
 </p>
 
 <p align="left">
-  🤓 Estudando atualmente: <strong>Blazor.</strong>
+  🤓 Estudando atualmente: <strong>UI Design.</strong>
 </p>
 
 <p align="left">
-  🔥 Pretendo aprender: <strong>UI/UX Design, Python, Desenvolvimento de Games.</strong>
+  🔥 Pretendo aprender: <strong>Blazor, Desenvolvimento de Games.</strong>
 </p>
 
 <p align="left">
-  🎮 Hobbies: Jogos on-line, ver filmes e futebol.<strong></strong>
+  🎮 Hobbies: Jogos on-line, futebol e filmes.<strong></strong>
 </p>
 
 <p align="left">
