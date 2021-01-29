@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🤓 Estudando atualmente: <strong>Flutter.</strong>
+  🤓 Estudando atualmente: <strong>Flutter</strong>, <strong>UI Design</strong>.
 </p>
 
 <p align="left">
