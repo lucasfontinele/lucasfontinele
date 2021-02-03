@@ -1,8 +1,8 @@
 <img src="./assets/fontinele.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Fontinele">
 
 <p align="left">
-  Olá, meu nome é Lucas Fontinele sou <strong>Desenvolvedor Front-end</strong> e <strong>Desenvolvedor Mobile</strong>.<br>
-  Atualmente trabalho como desenvolvedor Front-End. Uma das minhas paixões é
+  Olá, meu nome é Lucas Fontinele sou <strong>Desenvolvedor Front-end</strong> e <strong>Mobile</strong>.<br>
+  Atuo como desenvolvedor Front-End Pleno na Hicom IT, no produto do Estádio TNT Sports (antigo EiPlus, do Esporte Interativo). Uma das minhas paixões é
   prover às pessoas a sensação de estar utilizando algo que foi feito com muito cuidado e carinho, com uma ótima experiência de uso.
 </p>
 
