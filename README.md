@@ -28,8 +28,8 @@
 </p>
 
 <p align="left">
-<a href="mailto:lfontinele07@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-lfontinele07@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lfontinele07@gmail.com" /></a>
+<a href="mailto:contato@fontinele.dev" alt="Gmail">
+<img src="https://img.shields.io/badge/-contato@fontinele.dev-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=contato@fontinele.dev" /></a>
   
 <a href="https://www.linkedin.com/in/lucasfontinele" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Lucas%20Fontinele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfontinele" /></a>
