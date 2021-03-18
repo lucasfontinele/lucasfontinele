@@ -2,7 +2,7 @@
 
 <p align="left">
   Olá, meu nome é Lucas Fontinele sou <strong>Desenvolvedor Front-end</strong> e <strong>Mobile</strong>.<br>
-  Atuo como desenvolvedor Front-End Pleno na Hicom IT, no produto do Estádio TNT Sports (antigo EiPlus, do Esporte Interativo). Uma das minhas paixões é
+  Atuo como desenvolvedor Front-End Pleno na Hicom IT, no produto do Estádio TNT Sports. Uma das minhas paixões é
   prover às pessoas a sensação de estar utilizando algo que foi feito com muito cuidado e carinho, com uma ótima experiência de uso.
 </p>
 
