@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, C#, Python JavaScript, TypeScript, MySQL.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, C#, Node.JS, Python, JavaScript, TypeScript, MySQL.</strong>
 </p>
 
 <p align="left">
