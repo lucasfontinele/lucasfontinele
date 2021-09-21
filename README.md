@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, C#, Node.JS, Python, JavaScript, TypeScript, MySQL.</strong>
+  🚀 Languages/Skills: <strong>HTML5, CSS3, C#, Python, JavaScript, TypeScript, MySQL.</strong>
+</p>
+
+<p align="left">
+  ⚙️ Techs: <strong>React, React Native, Next.js, Flutter, Node.js, Express, Typeorm.</strong>
 </p>
 
 <p align="left">
@@ -15,11 +19,11 @@
 </p>
 
 <p align="left">
-  🔥 Pretendo aprender: <strong>Blazor, Desenvolvimento de Games.</strong>
+  🔥 Pretendo aprender: <strong>Vue.js</strong>
 </p>
 
 <p align="left">
-  🎮 Hobbies: Jogos on-line, futebol e filmes.<strong></strong>
+  🎮 Hobbies: Jogos online, futebol e filmes.<strong></strong>
 </p>
 
 <p align="left">
