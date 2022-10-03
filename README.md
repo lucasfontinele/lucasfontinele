@@ -1,6 +1,6 @@
 <p>
   Olá, meu nome é Lucas Fontinele sou <strong>Desenvolvedor Front-end</strong> e <strong>Mobile</strong>.<br>
-  Atuo como desenvolvedor Front-End Pleno na C&A. Uma das minhas paixões é
+  Atuo como engenheiro de software sênior na Framework. Uma das minhas paixões é
   prover às pessoas a sensação de estar utilizando algo que foi feito com muito cuidado e carinho, com uma ótima experiência de uso.
 </p>
 
