@@ -1,6 +1,4 @@
-<img src="./assets/illustration.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Fontinele">
-
-<p align="left">
+<p>
   Olá, meu nome é Lucas Fontinele sou <strong>Desenvolvedor Front-end</strong> e <strong>Mobile</strong>.<br>
   Atuo como desenvolvedor Front-End Pleno na C&A. Uma das minhas paixões é
   prover às pessoas a sensação de estar utilizando algo que foi feito com muito cuidado e carinho, com uma ótima experiência de uso.
