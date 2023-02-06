@@ -1,32 +1,23 @@
 <p>
-  Olá, meu nome é Lucas Fontinele sou <strong>Desenvolvedor Front-end</strong> e <strong>Mobile</strong>.<br>
-  Atuo como engenheiro de software sênior na Framework. Uma das minhas paixões é
-  prover às pessoas a sensação de estar utilizando algo que foi feito com muito cuidado e carinho, com uma ótima experiência de uso.
+  Hi, my name is <strong>Lucas Fontinele</strong> and I am a software engineer.<br>
+  Fascinated about technologies and tools.
 </p>
 
 <p align="left">
-  🚀 Languages/Skills: <strong>HTML5, CSS3, C#, Python, JavaScript, TypeScript, MySQL.</strong>
+  🚀 Languages/Skills: <strong>React.js, React Native, Next.js, Gatsby, TypeScript, Sass</strong>
 </p>
 
 <p align="left">
-  ⚙️ Techs: <strong>React, React Native, Next.js, Flutter, Node.js, Express, Typeorm.</strong>
+  🤓 Currently learning: <strong>English (improving my conversation level)</strong>, <strong>UI Design</strong>.
 </p>
 
 <p align="left">
-  🤓 Estudando atualmente: <strong>Flutter</strong>, <strong>UI Design</strong>.
+  🎮 Hobbies: Videogames, Soccer and watch movies.<strong></strong>
 </p>
 
 <p align="left">
-  🔥 Pretendo aprender: <strong>Vue.js</strong>
-</p>
-
-<p align="left">
-  🎮 Hobbies: Jogos online, futebol e filmes.<strong></strong>
-</p>
-
-<p align="left">
-💌  Quer falar comigo?<br>
-  Me mande mensagem em alguma dessas redes sociais abaixo ⤵️
+💌  Get in touch<br>
+  Send me a DM on one of my socials below ⤵️
 </p>
 
 <p align="left">
