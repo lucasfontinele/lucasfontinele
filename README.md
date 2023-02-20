@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/frontnele"><img align="right" src="https://api.daily.dev/devcards/2c4bfe495b7a45e8bbcea5c2f4f7a343.png?r=lax" width="400" alt="Lucas Fontinele's Dev Card"/></a>
+
 <p>
   Hi, my name is <strong>Lucas Fontinele</strong> and I am a software engineer.<br>
   Fascinated about technologies and tools.
@@ -21,12 +23,12 @@
 </p>
 
 <p align="left">
-<a href="mailto:contato@fontinele.dev" alt="Gmail">
-<img src="https://img.shields.io/badge/-contato@fontinele.dev-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=contato@fontinele.dev" /></a>
+  <a href="mailto:contato@fontinele.dev" alt="Gmail">
+  <img src="https://img.shields.io/badge/-contato@fontinele.dev-e34c41?style=flat-        square&labelColor=e34c41&logo=gmail&logoColor=white&link=contato@fontinele.dev" /></a>
   
 <a href="https://www.linkedin.com/in/lucasfontinele" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Lucas%20Fontinele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfontinele" /></a>
+  <img src="https://img.shields.io/badge/-Lucas%20Fontinele-blue?style=flat-  square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfontinele" /></a>
   
 <a href="https://twitter.com/frontnele" alt="Twitter">
-<img src="https://img.shields.io/badge/-Lucas Fontinele-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/frontnele" /></a>
- </p>
+  <img src="https://img.shields.io/badge/-Lucas Fontinele-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/frontnele" /></a>
+</p>
