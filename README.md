@@ -1,4 +1,8 @@
-<a href="https://app.daily.dev/frontnele"><img align="right" src="https://api.daily.dev/devcards/2c4bfe495b7a45e8bbcea5c2f4f7a343.png?r=lax" width="400" alt="Lucas Fontinele's Dev Card"/></a>
+<div>
+  <a href="https://app.daily.dev/frontnele"><img align="right" src="https://api.daily.dev/devcards/2c4bfe495b7a45e8bbcea5c2f4f7a343.png?r=lax" width="400" alt="Lucas Fontinele's Dev Card"/></a>
+
+<a href="https://app.bounties4.com/@/lucasfontinele" target="_blank"><img title="bounties4.com/@/lucasfontinele" alt="bounties4.com/@/lucasfontinele" src="https://storage.googleapis.com/profile_avatar/production/109085540586531524526/1697474366095_badge.png" width="400" height="400" /></a>
+</div>
 
 <p>
   Hi, my name is <strong>Lucas Fontinele</strong> and I am a software engineer.<br>
