@@ -1,24 +1,16 @@
 <div>
-  <a href="https://app.daily.dev/frontnele"><img align="right" src="https://api.daily.dev/devcards/2c4bfe495b7a45e8bbcea5c2f4f7a343.png?r=lax" width="400" alt="Lucas Fontinele's Dev Card"/></a>
-
-<a href="https://app.bounties4.com/@/lucasfontinele" target="_blank"><img title="bounties4.com/@/lucasfontinele" alt="bounties4.com/@/lucasfontinele" src="https://storage.googleapis.com/profile_avatar/production/109085540586531524526/1697474366095_badge.png" width="400" height="400" /></a>
+  <a href="https://app.bounties4.com/@/lucasfontinele" target="_blank">
+    <img align="right" title="bounties4.com/@/lucasfontinele" alt="bounties4.com/@/lucasfontinele" src="https://storage.googleapis.com/profile_avatar/production/109085540586531524526/1697474366095_badge.png" width="400" height="400" />
+  </a>
 </div>
 
 <p>
-  Hi, my name is <strong>Lucas Fontinele</strong> and I am a software engineer.<br>
-  Fascinated about technologies and tools.
+  Hi there, my name is <strong>Lucas Fontinele</strong> and i'm a software engineer.<br>
+  Fascinated about technology and creating products.
 </p>
 
 <p align="left">
-  🚀 Languages/Skills: <strong>React.js, React Native, Next.js, Gatsby, TypeScript, Sass</strong>
-</p>
-
-<p align="left">
-  🤓 Currently learning: <strong>English (improving my conversation level)</strong>, <strong>UI Design</strong>.
-</p>
-
-<p align="left">
-  🎮 Hobbies: Videogames, Soccer and watch movies.<strong></strong>
+  Languages/Skills: <strong>React.js, React Native & Node.js</strong>
 </p>
 
 <p align="left">
