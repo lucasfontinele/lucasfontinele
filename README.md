@@ -1,8 +1,6 @@
-<div>
-  <a href="https://app.bounties4.com/@/lucasfontinele" target="_blank">
-    <img align="right" title="bounties4.com/@/lucasfontinele" alt="bounties4.com/@/lucasfontinele" src="https://storage.googleapis.com/profile_avatar/production/109085540586531524526/1697474366095_badge.png" width="400" height="400" />
-  </a>
-</div>
+<a href="https://git.io/streak-stats">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=lucasfontinele&theme=algolia&hide_border=true&locale=en_US&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</a>
 
 <p>
   Hi there, my name is <strong>Lucas Fontinele</strong> and i'm a software engineer.<br>
@@ -28,11 +26,3 @@
 <a href="https://twitter.com/frontnele" alt="Twitter">
   <img src="https://img.shields.io/badge/-Lucas Fontinele-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/frontnele" /></a>
 </p>
-
-<br />
-
-<div align="left">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=lucasfontinele&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
