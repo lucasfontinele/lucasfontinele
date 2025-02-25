@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  Languages/Skills: <strong>React.js, React Native & Node.js</strong>
+  Languages/Skills: <strong>.NET, Node.js, React.js & React Native</strong>
 </p>
 
 <p align="left">
