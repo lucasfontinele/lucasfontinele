@@ -3,7 +3,7 @@
 </a>
 
 <p>
-  Hi there, my name is <strong>Lucas Fontinele</strong> and i'm a software engineer.<br>
+  Hi there, my name is <strong>Lucas Fontinele</strong> and i'm a software engineer since 2017.<br>
   Fascinated about technology and creating products.
 </p>
 
@@ -18,10 +18,10 @@
 
 <p align="left">
   <a href="mailto:contato@fontinele.dev" alt="Gmail">
-  <img src="https://img.shields.io/badge/-contato@fontinele.dev-e34c41?style=flat-        square&labelColor=e34c41&logo=gmail&logoColor=white&link=contato@fontinele.dev" /></a>
+  <img src="https://img.shields.io/badge/-contato@fontinele.dev-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=contato@fontinele.dev" /></a>
   
 <a href="https://www.linkedin.com/in/lucasfontinele" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Lucas%20Fontinele-blue?style=flat-  square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfontinele" /></a>
+  <img src="https://img.shields.io/badge/-Lucas%20Fontinele-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfontinele" /></a>
   
 <a href="https://twitter.com/frontnele" alt="Twitter">
   <img src="https://img.shields.io/badge/-Lucas Fontinele-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/frontnele" /></a>
