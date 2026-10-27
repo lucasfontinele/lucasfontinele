@@ -18,6 +18,5 @@ Software engineer since **2017**, fascinated by technology and by turning ideas 
 - 📍 Based in **Palmas, Brasil**
 - 🧱 Backend with **.NET** and **Node.js** (NestJS, DDD, Clean Architecture, microservices)
 - 🎨 Frontend & mobile with **React, Next.js and React Native**
-- 🌱 Exploring **Flutter** and modern web architecture
 - 💬 Ask me about APIs, frontend architecture, or shipping products end to end
 - 📫 Reach me at **contato@fontinele.dev**
